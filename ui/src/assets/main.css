@@ -1,0 +1,14 @@
+.link{
+  color: #1677ff;
+  cursor: pointer;
+  user-select: none;
+}
+
+*{
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: Alimama;
+  src: url("./fonts/alimama-IgCLZLJT.ttf");
+}
